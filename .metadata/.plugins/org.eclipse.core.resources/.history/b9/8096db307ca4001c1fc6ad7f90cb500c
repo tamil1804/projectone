@@ -1,0 +1,9 @@
+package phaseoneproject;
+
+public class ClientApp 
+{
+	public static void main(String arg[])
+	{
+		LockedMe.displayMenu();
+	}
+}
